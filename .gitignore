@@ -1,0 +1,8 @@
+# Godot
+.godot/
+/android/
+# APK generati
+build/
+*.apk
+*.aab
+*.keystore
